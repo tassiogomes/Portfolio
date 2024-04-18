@@ -1,6 +1,9 @@
 # Gym Management Mobile and Tablet App with PowerApps
 
-![Gym Management App](https://github.com/tguimas/Portfolio/assets/115223702/8e6b1327-f9f9-4b39-bf09-44e870f69653)![tablet](https://github.com/tassiogomes/Portfolio/assets/62346384/6efc0b8f-e75b-4dd1-8f95-34f2d1a0f4af)
+<p align="center">
+  <img src="https://github.com/tguimas/Portfolio/assets/115223702/8e6b1327-f9f9-4b39-bf09-44e870f69653" alt="Gym Management App">
+  <img src="https://github.com/tassiogomes/Portfolio/assets/62346384/6efc0b8f-e75b-4dd1-8f95-34f2d1a0f4af" alt="tablet">
+</p>
 
 ## Introduction
 
@@ -21,3 +24,6 @@ To get started with the Gym Management Mobile App, follow these steps:
 1. Download the app from the [Microsoft PowerApps Store](link).
 2. Log in with your credentials or recover your password if needed.
 3. Explore the dashboard and navigate through the various features to manage your gym effectively.
+
+[![See more - Mobile](https://img.shields.io/badge/See_more_Mobile-blue?style=flat-square)](https://github.com/tassiogomes/Portfolio/tree/main/PowerApps/Mobile)
+[![See more - Tablet](https://img.shields.io/badge/See_more_Tablet-blue?style=flat-square)](https://github.com/tassiogomes/Portfolio/tree/main/PowerApps/Tablet)
