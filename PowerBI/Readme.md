@@ -6,6 +6,13 @@
 
 This Power BI report provides insights into gym management data, enabling efficient decision-making and performance monitoring.
 
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYjBiNTkzMzEtNTYwMy00NzVmLTgzMGUtYjM2NTcwNThkNDg1IiwidCI6Ijc3NTE1MjJhLTAxMTgtNGJiNS04M2VlLTFmZTAwNDBiMTliMiIsImMiOjl9">
+    <img src="https://img.shields.io/badge/Open%20PowerBI-FF69B4?style=for-the-badge&logo=powerbi" alt="Open PowerBI">
+  </a>
+</p>
+
+
 ## Features
 
 - **ETL Process:** Implemented an Extract, Transform, Load (ETL) process to extract data from various sources, transform it into a usable format, and load it into the Power BI model.
