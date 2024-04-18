@@ -15,6 +15,9 @@ This tablet app, developed using PowerApps, offers comprehensive gym management 
 - **Room Availability:** Check the availability of gym rooms and manage operational tasks for each room.
 - **Task Management:** Keep track of operational tasks and take associated photos for reference.
 
+  
+### Navigation
+![Navigation](https://github.com/tguimas/Portfolio/assets/115223702/e588a5c7-6070-48ca-b0eb-b59afc7dc189)
 
 ## Getting Started
 
