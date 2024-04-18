@@ -1,4 +1,4 @@
-# Gym Management Tablet App with PowerApps
+# Gym Management Mobile App with PowerApps
 
 ![Gym Management App](https://github.com/tguimas/Portfolio/assets/115223702/8e6b1327-f9f9-4b39-bf09-44e870f69653)
 
