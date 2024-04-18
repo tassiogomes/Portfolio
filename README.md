@@ -11,7 +11,11 @@
   </a>
 </p>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-007bff?style=for-the-badge&logo=github&logoColor=white)](https://tassiogomes.github.io/Portfolio/)
+<p align="center">
+  <a href="https://tassiogomes.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Visit Portfolio">
+  </a>
+</p>
 
 
 
