@@ -18,7 +18,7 @@ This mobile app, developed using PowerApps, offers comprehensive gym management 
 ## Screenshots
 
 ### Login Page
-![Login Page](https://github.com/tguimas/Portfolio/assets/115223702/96f3bd7e-5a6d-42d2-a3e1-91441cb7dd1f)
+![Login Page](https://github.com/tguimas/Portfolio/assets/115223702/96f3bd7e-5a6d-42d2-a3e1-91441cb7dd1f) ![Recover Password Page](https://github.com/tguimas/Portfolio/assets/115223702/46dbedb7-6ab3-4fb4-9bf9-83095a72b13e)
 
 ### Recover Password Page
 ![Recover Password Page](https://github.com/tguimas/Portfolio/assets/115223702/46dbedb7-6ab3-4fb4-9bf9-83095a72b13e)
