@@ -2,9 +2,6 @@
 
 ![BI](https://github.com/tassiogomes/Portfolio/assets/62346384/c84430ef-df74-4dd3-abf0-bedc9a34c752)
 
-## Introduction
-
-This Power BI report provides insights into gym management data, enabling efficient decision-making and performance monitoring.
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYjBiNTkzMzEtNTYwMy00NzVmLTgzMGUtYjM2NTcwNThkNDg1IiwidCI6Ijc3NTE1MjJhLTAxMTgtNGJiNS04M2VlLTFmZTAwNDBiMTliMiIsImMiOjl9">
@@ -12,6 +9,9 @@ This Power BI report provides insights into gym management data, enabling effici
   </a>
 </p>
 
+## Introduction
+
+This Power BI report provides insights into gym management data, enabling efficient decision-making and performance monitoring.
 
 ## Features
 
